@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Toolbar背景色 -->
+    <color name="colorPrimary">#eb4f38</color>
+    <!--状态栏背景色 -->
+    <color name="colorPrimaryDark">#eb4f38</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
